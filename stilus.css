@@ -1,0 +1,15 @@
+fieldset {
+    width: 30%;
+    border-color: red;
+    border-style: dashed;
+    background-color: aquamarine;
+}
+
+legend {
+    font-family: sans-serif;
+    color: blue;
+}
+
+#rejto {
+    visibility: hidden;
+}
